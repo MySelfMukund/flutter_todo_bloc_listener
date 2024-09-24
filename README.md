@@ -25,11 +25,11 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MySelfMukund/Flutter_Todo_Cubit_BlocListner.git
+   git clone https://github.com/MySelfMukund/flutter_todo_bloc_listener.git
 
 2. Navigate to the project folder:
    ```bash
-   cd Flutter_Todo_Cubit_BlocListener
+   cd flutter_todo_bloc_listener
 
 3. Install the dependencies:
    ```bash
